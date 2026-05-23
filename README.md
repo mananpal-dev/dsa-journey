@@ -11,12 +11,15 @@ problem-solving, logic building, and interview preparation.
 | Valid Anagram | Arrays & Hashing | ✅ |
 | Two Sum | Arrays & Hashing | ✅ |
 | Group Anagrams | Arrays & Hashing | ✅ |
+| Top K Frequent Elements | Arrays & Hashing | ✅ |
+| Encode and Decode Strings | Arrays & Hashing | ✅ |
 
 ## Topics Covered
 
 - Arrays
 - Hashing
 - Sorting
+- String Encoding
 
 ## Goal
 
