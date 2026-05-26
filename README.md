@@ -13,6 +13,7 @@ problem-solving, logic building, and interview preparation.
 | Group Anagrams | Arrays & Hashing | ✅ |
 | Top K Frequent Elements | Arrays & Hashing | ✅ |
 | Encode and Decode Strings | Arrays & Hashing | ✅ |
+| Product of Array Except Self | Arrays & Prefix Products | ✅ |
 
 ## Topics Covered
 
@@ -20,6 +21,7 @@ problem-solving, logic building, and interview preparation.
 - Hashing
 - Sorting
 - String Encoding
+- Prefix & Postfix Products
 
 ## Goal
 
