@@ -14,6 +14,8 @@ problem-solving, logic building, and interview preparation.
 | Top K Frequent Elements | Arrays & Hashing | ✅ |
 | Encode and Decode Strings | Arrays & Hashing | ✅ |
 | Product of Array Except Self | Arrays & Prefix Products | ✅ |
+| Valid Sudoku | Hashing | ✅ |
+| Longest Consecutive Sequence | Arrays & Hashing | ✅ |
 
 ## Topics Covered
 
@@ -22,6 +24,7 @@ problem-solving, logic building, and interview preparation.
 - Sorting
 - String Encoding
 - Prefix & Postfix Products
+- HashSets
 
 ## Goal
 
