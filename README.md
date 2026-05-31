@@ -19,6 +19,7 @@ problem-solving, logic building, and interview preparation.
 | Valid Palindrome | Two Pointers & Strings | ✅ |
 | Two Sum II - Input Array Is Sorted | Two Pointers | ✅ |
 | 3Sum | Two Pointers | ✅ |
+| Container With Most Water | Two Pointers | ✅ |
 
 ## Topics Covered
 
