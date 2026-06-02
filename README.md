@@ -21,6 +21,7 @@ problem-solving, logic building, and interview preparation.
 | 3Sum | Two Pointers | ✅ |
 | Container With Most Water | Two Pointers | ✅ |
 | Trapping Rain Water | Two Pointers | ✅ |
+| Best Time to Buy and Sell Stock | Sliding Window | ✅ |
 
 ## Topics Covered
 
