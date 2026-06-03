@@ -23,6 +23,7 @@ problem-solving, logic building, and interview preparation.
 | Trapping Rain Water | Two Pointers | ✅ |
 | Best Time to Buy and Sell Stock | Sliding Window | ✅ |
 | Longest Substring Without Repeating Characters | Sliding Window | ✅ |
+| Longest Repeating Character Replacement | Sliding Window | ✅ |
 
 ## Topics Covered
 
