@@ -26,6 +26,7 @@ problem-solving, logic building, and interview preparation.
 | Longest Repeating Character Replacement | Sliding Window | ✅ |
 | Permutation in String | Sliding Window | ✅ |
 | Minimum Window Substring | Sliding Window | ✅ |
+| Sliding Window Maximum | Sliding Window / Monotonic Queue | ✅ |
 
 ## Topics Covered
 
@@ -38,6 +39,7 @@ problem-solving, logic building, and interview preparation.
 - Two Pointers
 - Strings
 - Sliding Window
+- Monotonic Queue
 
 ## Goal
 
