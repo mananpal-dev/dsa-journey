@@ -25,6 +25,7 @@ problem-solving, logic building, and interview preparation.
 | Longest Substring Without Repeating Characters | Sliding Window | ✅ |
 | Longest Repeating Character Replacement | Sliding Window | ✅ |
 | Permutation in String | Sliding Window | ✅ |
+| Minimum Window Substring | Sliding Window | ✅ |
 
 ## Topics Covered
 
