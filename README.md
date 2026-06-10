@@ -35,6 +35,7 @@ problem-solving, logic building, and interview preparation.
 | Find Minimum in Rotated Sorted Array | Binary Search | ✅ |
 | Search in Rotated Sorted Array | Binary Search | ✅ |
 | Rotate Array | Arrays | ✅ |
+| Remove Duplicates from Sorted Array II | Arrays / Two Pointers | ✅ |
 
 ## Topics Covered
 
