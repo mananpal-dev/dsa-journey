@@ -41,6 +41,7 @@ problem-solving, logic building, and interview preparation.
 | Remove Duplicates from Sorted Array | Two Pointers | ✅ |
 | Implement Trie (Prefix Tree) | Trie | ✅ |
 | Reverse Linked List | Linked List | ✅ |
+| Merge Two Sorted Lists | Linked List | ✅ |
 
 ## Topics Covered
 
