@@ -40,6 +40,7 @@ problem-solving, logic building, and interview preparation.
 | Median of Two Sorted Arrays | Binary Search | ✅ |
 | Remove Duplicates from Sorted Array | Two Pointers | ✅ |
 | Implement Trie (Prefix Tree) | Trie | ✅ |
+| Reverse Linked List | Linked List | ✅ |
 
 ## Topics Covered
 
@@ -57,6 +58,7 @@ problem-solving, logic building, and interview preparation.
 - Binary Search
 - Design
 - Trie
+- Reverse Linked List
 
 ## Goal
 
