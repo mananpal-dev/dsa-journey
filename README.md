@@ -42,6 +42,7 @@ problem-solving, logic building, and interview preparation.
 | Implement Trie (Prefix Tree) | Trie | ✅ |
 | Reverse Linked List | Linked List | ✅ |
 | Merge Two Sorted Lists | Linked List | ✅ |
+| Linked List Cycle | Linked List / Two Pointers | ✅ |
 
 ## Topics Covered
 
