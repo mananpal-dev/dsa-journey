@@ -44,6 +44,7 @@ problem-solving, logic building, and interview preparation.
 | Merge Two Sorted Lists | Linked List | ✅ |
 | Linked List Cycle | Linked List / Two Pointers | ✅ |
 | Reorder List | Linked List | ✅ |
+| Remove Nth Node From End of List | Linked List / Two Pointers | ✅ |
 
 ## Topics Covered
 
