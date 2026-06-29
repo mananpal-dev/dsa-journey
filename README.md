@@ -50,6 +50,7 @@ problem-solving, logic building, and interview preparation.
 | Find the Duplicate Number | Linked List / Floyd's Cycle Detection | ✅ |
 | LRU Cache | Design / Hash Map / Doubly Linked List | ✅ |
 | Merge K Sorted Lists | Linked List / Divide and Conquer | ✅ |
+| Reverse Nodes in k-Group | Linked List / Recursion | ✅ |
 
 ## Topics Covered
 
